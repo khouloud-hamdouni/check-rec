@@ -1,0 +1,11 @@
+ALGORITHM recursevité
+VAR
+    i,j:integer;
+    tab: array of integer[];
+    i:=1;
+    
+BEGIN
+    WHILE () DO
+        set_instructions
+    END_WHILE
+END
